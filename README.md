@@ -48,6 +48,6 @@ Your Finances.
 Your Peace of Mind.
 
 Ready to have a taste of how simple finances can get? 
-Head over to business.ficoreafrica.com, scroll to the app section and download!
+Head over to ficoreafrica.com, scroll and download the app!
 
 All feedback is appreciated, we are listening to your opinions as you discover Ficore Africa and how it can be better.
