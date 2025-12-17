@@ -27,6 +27,26 @@ The primary people we serve are:
 3. Modern Entrepreneurs
 4. Earners
 
+What We Do at Ficore Africa  
+For SMEs, Freelancers & Digital Hustlers in Nigeria.
+
+* Total Income & Total Expenses, Track clearly 
+* Manual + Voice Logging, record entries with voice🎙️
+* Organized categories like Salary, Rent, Sales, Fuel
+
+Why Choose FiCore?
+
+✅ Free Monthly Entries  
+✅ Smart Income/Expense Insights  
+✅ Tax-Ready Bookkeeping  
+✅ Voice Logging enabled  
+✅ Custom Tax Planning Insights  
+✅ Professional Support Available
+
+Ficoreafrica. com| 
+Your Finances. 
+Your Peace of Mind.
+
 Ready to have a taste of how simple finances can get? 
 Head over to business.ficoreafrica.com, scroll to the app section and download!
 
