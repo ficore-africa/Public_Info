@@ -1,4 +1,48 @@
-*Join the Financial Revolution with Ficore Africa!*
+FiCore Africa Yana Kan Play Store Yanzu! 🎉
+
+Assalamu Alaikum FiCoreFam!
+
+Muna farin cikin sanar da ku cewa, bayan dogon bincike da tantancewa na tsawon watanni daga kamfanin Google (tun ranar 31st ga January muka mika FiCore domin tantancewa), a yau manhajarku ta *FiCore Africa: Business Wallet* ta samu amincewa kuma an sanya ta (Live) a kan Google Play Store!
+
+Ku yi watsi da duk wani link da ka tura musu a baya. Ku je Play Store ku rubuta "FiCore Africa: Business Wallet" ku sauko da sabon app din shi kai tsaye.
+
+Mun san cewa Google suna da tsanani sosai kan manhajoji da suka shafi lamuran kudi (Fintech), musamman daga Najeriya. Amma bayan mun nuna musu kwarewarmu da kuma hujjoji masu karfi na yadda muke kare bayanan kudin masu amfani da mu, sun tabbatar da cewa FiCore amintacce ne.
+
+Me yake nufin idan kana amfani da FiCore?
+
+Sana'a a Najeriya ba ta bukatar wahalar takardu. FiCore Africa shine mataimakin lissafi (CFO) da aka kera don kai:
+
+ABUBUWAN DA YA KUNSA:
+
+🎙️ Lissafi da Murya (Voice-Powered):
+Kawai kace "Na sayar da burodi na Naira 5,000", FiCore zai rubuta, ya rarraba nau'in kudin, sannan ya adana maka lissafi ta atomatik.
+
+🤝 Rahoton Kudi Cikin Sakan 30:
+Zaka iya fitar da takardar lissafi (PDF ko CSV) domin neman rance a banki, biyan haraji, ko binciken kudin sana'arka cikin kankanin lokaci.
+
+📱 Biyan Bukatu (VAS & Payments):
+Sayi katin waya, data, sannan ka biya kudaden wutar lantarki ko ruwa kai tsaye daga aljihun sana'arka (Business Wallet).
+
+🛡️ Tabbacin Tsaro:
+An kera FiCore ne bisa dokokin kudi na Najeriya. Bayananku suna boye cikin sirri kuma a adane suke (Encrypted).
+
+Me yasa zaka zabi FiCore?
+
+Offline Capability: Da zarar kayi logging toh yana aiki koda babu data, kuma zai adana lissafin idan network ya dawo.
+
+Business Suite: Yana taimaka maka lura da kayan shago (Inventory), bin bashin da ake bin ka (Debtors), da lissafin kadarorinka (Assets).
+
+Harshen Gida: Mun samar da yaren Hausa da Pidgin don kowa ya gane.
+
+Yadda zaka daukoshi:
+Yanzu zaka iya daukoshi daga wajen da aka fi yarda dashi a duniya (Play Store). Danna wannan link din:
+👉 https://play.google.com/store/apps/details?id=com.ficore.africa
+
+Domin Taimako:
+Ziyarci: https://business.ficoreafrica.com
+Email: team@ficoreafrica.com
+
+FiCore Africa: Lissafi a Tafin Hannunka.
 
 We're unveiling a powerful solution for the millions of hardworking entrepreneurs and traders across Africa. Get the opportunity to simplify your finances right on your phone! 👇
 
