@@ -1,71 +1,120 @@
-FiCore Africa Yana Kan Play Store Yanzu! 🎉
+# FiCore Africa Yana Kan Play Store Yanzu
 
-Assalamu Alaikum FiCoreFam!
-Muna farin cikin sanar da ku cewa, bayan dogon bincike da tantancewa na tsawon watanni daga kamfanin Google (tun ranar 31 ga Janairu muka mika FiCore domin tantancewa), a yau manhajarmu ta FiCore Africa: Business Wallet ta samu amincewa kuma an sanya ta Live a kan Google Play Store!
-Ku yi watsi da duk wani link da kuka tura a baya. Ku je Play Store yanzu, ku rubuta "FiCore Africa: Business Wallet" ku sauke sabon app ɗin kai tsaye.
-Mun san cewa Google suna da tsanani sosai kan manhajoji da suka shafi lamuran kuɗi (Fintech), musamman daga Najeriya. Amma bayan mun nuna musu ƙwarewarmu da hujjoji masu ƙarfi na yadda muke kare bayanan kuɗin masu amfani, sun tabbatar da cewa FiCore amintacce ne.
-Me yake nufin idan kana amfani da FiCore?
-Sana’a a Najeriya ba ta bukatar wahalar takardu. FiCore Africa shine mataimakin lissafi (CFO) da aka kera don kai:
-Abubuwan da ya ƙunsa:
+Assalamu Alaikum FiCoreFam,
 
-🎙️ Lissafi da Murya (Voice-Powered):
-Kawai ka ce “Na sayar da burodi na Naira 5,000”, FiCore zai rubuta, ya rarraba nau’in kuɗi, sannan ya adana maka lissafi ta atomatik.
-🤝 Rahoton Kuɗi Cikin Sakan 30:
-Za ka iya fitar da takardar lissafi (PDF ko CSV) don neman rance a banki, biyan haraji, ko binciken kuɗin sana’arka cikin ƙanƙanin lokaci.
-📱 Biyan Bukatu (VAS & Payments):
-Sayi katin waya, data, ka biya kuɗin wutar lantarki ko ruwa kai tsaye daga aljihun sana’arka (Business Wallet).
-🛡️ Tabbacin Tsaro:
-An kera FiCore bisa dokokin kuɗi na Najeriya. Bayananka suna boye cikin sirri kuma an adana su (Encrypted).
+Mun saka FiCore Africa: Business Wallet a Google Play Store yanzu.
 
-Me yasa za ka zaɓi FiCore?
+Mun yi aiki sosai a kan wannan release, mun gwada shi, kuma mun ci gaba da gyara abubuwa bisa feedback. Muna so FiCore ya zama manhaja da ’yan kasuwa a Najeriya za su iya amfani da ita cikin sauƙi, ko da ba su da cikakken lokaci ko internet kullum.
 
-Offline Capability: Da zarar ka yi logging, yana aiki ko ba a data, kuma zai adana lissafi idan network ya dawo.
-Business Suite: Yana taimaka maka lura da kayan shago (Inventory), bin bashin da ake bin ka (Debtors), da lissafin kadarorinka (Assets).
-Harshen Gida: Yana da Hausa da Pidgin don kowa ya gane.
-Habit-Forming Design: Streaks da Smart Reminders don ka kasance kan lissafi kullum.
-Tax-Ready: Tax Prep Mode, Inventory Loss Detector, da Debt Tracker — don a kiyaye ka daga tax man da ’yan sanda.
+## FiCore Africa Menene?
 
-Yadda za ka sauke shi:
-Yanzu za ka iya saukewa daga wajen da aka fi yarda da shi a duniya (Google Play Store).
-👉 https://play.google.com/store/apps/details?id=com.ficore.africa
-Domin Taimako:
-Website: https://business.ficoreafrica.com
-Email: team@ficoreafrica.com
-FiCore Africa: Lissafi a Tafin Hannunka.
+FiCore Africa manhaja ce ta business wallet da bookkeeping wadda aka gina domin:
+- ’yan kasuwa
+- SMEs
+- traders
+- startups
+- freelancers
+- da masu sana’a da ke son su san inda kudinsu yake
 
-English Version 
-We're unveiling a powerful solution for millions of hardworking entrepreneurs and traders across Africa. Simplify your finances right on your phone! 👇
-Why Choose FiCore Africa?
-FiCore Africa is your smart Business Wallet and CFO in your pocket — built specifically for Nigerian SMEs, traders, freelancers, and modern entrepreneurs.
-What You Get:
+Manufar mu ita ce mu sauƙaƙa rubuta sales, expenses, debt, inventory, da reports a wuri guda.
 
-Voice-Powered Bookkeeping 🎙️ – Just speak your transactions. No more typing.
-Instant Reports – Generate professional PDF or CSV reports in seconds for banks, tax, or your own review.
-Daily Business Payments – Buy airtime, data, electricity, and water directly from your Business Wallet.
-Full Business Suite – Inventory, Debtors, Assets, Debt Tracker & more.
-Tax-Ready Features – True profit visibility, Tax Prep Mode, and compliance tools.
-Offline Mode – Works without internet and syncs when back online.
-Local Languages – Available in English, Hausa & Pidgin.
-Secure & Compliant – Built according to Nigerian financial regulations with strong encryption.
+## Abubuwan da FiCore ke yi
 
-Who is FiCore For?
+- Voice-powered bookkeeping: zaka iya faɗin abin da ya faru, kuma FiCore zai taimaka wajen rubuta shi.
+- Instant reports: zaka iya fitar da PDF ko CSV report cikin sauri.
+- Business payments: airtime, data, electricity, da sauran VAS services daga business wallet.
+- Inventory tracking: lura da kayan shago da stock.
+- Debtors and assets: bibiyar abin da ake binsa da kadarorin sana’a.
+- Offline mode: yana aiki ko da internet bai yi kyau ba, sannan ya sync idan network ya dawo.
+- Hausa da Pidgin: domin ya fi sauƙin fahimta ga mutane da yawa.
+- Security: mun gina shi da tsare-tsaren tsaro da encryption don bayanan masu amfani.
 
-Traders
-Startups
-Modern Entrepreneurs
-Freelancers & Digital Hustlers
+## Me yasa muka gina shi haka?
 
-Why FiCore Stands Out:
-✅ Free monthly entries
-✅ Smart insights & visual charts
-✅ Voice logging
-✅ Tax-ready bookkeeping
-✅ Affordable plans + Free trial
-Ready to experience how simple and stress-free business finances can be?
-Download now:
-👉 https://play.google.com/store/apps/details?id=com.ficore.africa
-Visit: https://business.ficoreafrica.com
-Email: team@ficoreafrica.com
+Saboda mun san yadda harkar kasuwanci take a Najeriya.
+
+Ba kowa ne yake da lokaci ko yanayin amfani da accounting software mai wahala ba. Wasu suna buƙatar abu mai sauƙi, mai sauri, kuma mai dacewa da gaskiyar kasuwancin su.
+
+FiCore an gina shi ne domin ya taimaka maka:
+- ka rubuta abin da ya shigo da wanda ya fita
+- ka gane ribarka
+- ka rage rikicewar takardu
+- ka riƙe business records cikin tsari
+- ka kasance cikin shiri idan kana buƙatar report
+
+## Wa yake amfani da FiCore?
+
+- Traders
+- Small business owners
+- Startups
+- Freelancers
+- Modern entrepreneurs
+- Masu sana’a da ke son sauƙin bookkeeping
+
+## Abin da muke son cimmawa
+
+Muna son FiCore ya zama manhaja da ke taimaka wa masu sana’a su yi record keeping cikin sauƙi, su fi fahimtar cash flow, kuma su fi sarrafa harkar kasuwancinsu.
+
+Ba kawai app ba ne. Muna son ya zama kayan aiki da ke taimaka wa mutane su kasance kan lissafin kasuwancinsu a kowace rana.
+
+## Sauke app ɗin
+
+Google Play Store:
+https://play.google.com/store/apps/details?id=com.ficore.africa
+
+Website:
+https://business.ficoreafrica.com
+
+Support:
+team@ficoreafrica.com
+
+## English Version
+
+FiCore Africa is now live on the Google Play Store.
+
+We built this release carefully, tested it, and kept improving it based on feedback. Our goal is simple: make bookkeeping and business management easier for people running real businesses in Nigeria and across Africa.
+
+### What FiCore does
+
+- Voice-powered bookkeeping
+- Instant PDF and CSV reports
+- Airtime, data, electricity, and other VAS payments from your business wallet
+- Inventory tracking
+- Debtors and assets tracking
+- Offline mode for low-connectivity environments
+- Hausa and Pidgin language support
+- Security and encryption for user data
+
+### Who FiCore is for
+
+- Traders
+- Small business owners
+- Startups
+- Freelancers
+- Entrepreneurs
+- Anyone who wants a simpler way to manage business records
+
+### Why we built it this way
+
+Because many business owners do not need complicated accounting software. They need something practical, fast, and easy to keep up with.
+
+FiCore is meant to help you:
+- record sales and expenses
+- understand your profit
+- keep business records organized
+- track what people owe you
+- stay ready when you need a report
+
+### Download
+
+Google Play Store:
+https://play.google.com/store/apps/details?id=com.ficore.africa
+
+Website:
+https://business.ficoreafrica.com
+
+Support:
+team@ficoreafrica.com
+
 FiCore Africa
-Your Finances. Your Peace of Mind.
-All feedback is appreciated — we are listening and constantly improving FiCore Africa for you.
+Lissafi a Tafin Hannunka.
